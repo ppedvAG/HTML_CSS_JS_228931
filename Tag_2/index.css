@@ -1,0 +1,50 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(90deg, #9ca1ac, #66778f);
+}
+
+#eindeutig {
+    color: #0f0;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.main-container {
+    border: dotted 5px orange;
+    width: 30%;
+    margin: 0 auto 0 auto; /* top, right, bottom, left */
+    border-radius: 15px;
+}
+
+#money {
+    font-weight: bold;
+    font-size: 50px;
+    color: red;
+}
+
+#hallo {
+    position: relative;
+    bottom: 50px;
+}
+
+#firstAnchor {
+    font-size: 30px;
+    border: 5px solid blue;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#firstAnchor:hover {
+    box-shadow: #fff 5px 5px 5px 5px;
+}
+
+aside {
+    border: 5px solid #983016;
+    width: 20%;
+    margin: 20px auto 0 auto;
+    border-radius: 10px;
+    background-color: lightgray;
+}
