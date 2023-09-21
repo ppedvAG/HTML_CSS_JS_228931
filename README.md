@@ -16,34 +16,34 @@ Tag 1 -> HTML:
 - Breaks, Image
 - Input Content (Forms)
 
-  Tag 2 -> CSS:
-  - Syntax
-  - Deklaration
-  - Einbinden in HTML
-  - Shortcuts (Emmet)
-  - Selektoren
-  - Eigenschaften
-  - Box-Modell
-  - Displays
-  - Grid oberflächlich
-  - CSS Debugging
-  - Maßeinheiten
-  - Positionen
+Tag 2 -> CSS:
+- Syntax
+- Deklaration
+- Einbinden in HTML
+- Shortcuts (Emmet)
+- Selektoren
+- Eigenschaften
+- Box-Modell
+- Displays
+- Grid oberflächlich
+- CSS Debugging
+- Maßeinheiten
+- Positionen
  
-  Tag 3 -> JavaScript
-  - Einbinden
-  - Notationsregeln
-  - Variablen
-  - Datentypen
-  - Operatoren
-  - Funktionen
-  - Lokale- und Globalevariablen
-  - If, If else & else
-  - Switch-Case
-  - for-Schleife
-  - do-while
-  - Array
-  - Objekte (Konstruktor) (oberflächlich gehalten)
+Tag 3 -> JavaScript
+- Einbinden
+- Notationsregeln
+- Variablen
+- Datentypen
+- Operatoren
+- Funktionen
+- Lokale- und Globalevariablen
+- If, If else & else
+- Switch-Case
+- for-Schleife
+- do-while
+- Array
+- Objekte (Konstruktor) (oberflächlich gehalten)
 
     
   
